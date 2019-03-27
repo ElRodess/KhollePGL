@@ -1,0 +1,5 @@
+Exécution De L'Application
+
+Pour exécuter l'application, il suffit de taper la commande : java -jar target/KhollePGL-0.0.1-SNAPSHOT.jar
+
+L'application devrait s'exécuter directement dans le Terminal.
